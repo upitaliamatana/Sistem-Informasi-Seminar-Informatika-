@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
         /**fungsi ini akan dipanggil saat user menekan tombol login*/
-        public void cobaLogin(View view){
+        public void btnLogin(View view){
             Intent main = new Intent(this, com.example.maninback.login.main.class);
             EditText username = (EditText) findViewById(R.id.username);
             EditText pass = (EditText) findViewById(R.id.password);
