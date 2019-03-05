@@ -2,6 +2,7 @@
     <string name="app_name">Login</string>
     <string name="username_id">username</string>
     <string name="kirim">Login</string>
+    <string name="keluar">Logout</string>
     <string name="password">password</string>
 
 </resources>
